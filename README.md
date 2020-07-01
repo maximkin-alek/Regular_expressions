@@ -1,2 +1,6 @@
 # Link to my project [Validation](maximkin-alek.github.io)
-Сurrent version v. 0.3
+
+## The project uses regular expressions to validate the user name, email address, phone number, and site address.
+Сurrent version v. 0.4
+
+Instructions: open the site and fill out the form. 
