@@ -1,6 +1,9 @@
-# Link to my project [Validation](https://maximkin-alek.github.io/maximkin-alek.github.io-form/)
+# Регулярные выражения.
 
-## The project uses regular expressions to validate the user name, email address, phone number, and site address.
-Сurrent version v. 0.6
+## О проекте:
+Учебный проект, в котором для валидации полей формы используются регулярные выражения. Валидация настроена для полей Имя, E-meil, телефон и URL.
 
-Instructions: open the site and fill out the form. 
+## Инструкции по запуску:
+Перейти на сайт по ссылке, заполнить поля формы.
+
+## Ссылка на github pages: [Валидация](https://maximkin-alek.github.io/maximkin-alek.github.io-form/)
