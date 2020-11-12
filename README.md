@@ -6,4 +6,4 @@
 ## Инструкции по запуску:
 Перейти на сайт по ссылке, заполнить поля формы.
 
-## Ссылка на github pages: [Валидация](https://maximkin-alek.github.io/maximkin-alek.github.io-form/)
+## Ссылка на github pages: [Валидация](https://maximkin-alek.github.io/Regular_expressions/)
